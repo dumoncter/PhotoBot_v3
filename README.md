@@ -14,8 +14,8 @@ About...
 
 The bot provides the following features:
 
--
--
+- Send files
+- Shop button for send file
 
 ## Commands
 
