@@ -3,7 +3,6 @@
 A simple structure for creating telegram bots using AIOgram 3.
 
 ---
-***Readme template:***
 
 # [project name]
 
